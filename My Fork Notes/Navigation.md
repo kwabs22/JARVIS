@@ -1,3 +1,5 @@
+Linux Implementation so might have issues elsewhere?
+
 This a mix of HuggingGPT and ? so far
 
 # main file - awesomechat - doesnt seem to have a interface yet
